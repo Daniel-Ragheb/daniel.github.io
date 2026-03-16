@@ -1,3 +1,0 @@
-Add your public hosting URL here before submitting.
-Example:
-https://your-username.github.io/personal-cv/
